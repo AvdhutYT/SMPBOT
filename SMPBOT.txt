@@ -1,0 +1,5 @@
+{ 
+           "ip":"Avdhutplayz09.aternos.me",
+           "port":"18849",
+           "name":"SMPBOT"
+}
